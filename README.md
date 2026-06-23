@@ -121,6 +121,14 @@ A entrega do painel proporcionou ao cliente:
 
 ---
 
+## 📚 Documentação Técnica
+
+Para entender em profundidade as decisões técnicas, modelagem e fórmulas DAX:
+
+- 🗂️ **docs/01-modelagem-de-dados.md** — Star Schema, tabelas, relacionamentos e justificativas
+- 📐 **docs/02-medidas-dax.md** — 8 medidas DAX comentadas e organizadas por categoria
+- 
+---
 ## 📌 Observação
 
 > Os dados originais são confidenciais e pertencem ao cliente. Este repositório contém **dados anonimizados e sintéticos** para fins de portfólio, mantendo a estrutura, a modelagem e a lógica analítica do projeto original.
