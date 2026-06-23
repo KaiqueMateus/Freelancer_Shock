@@ -55,18 +55,16 @@ Descreva em 2-3 parágrafos como você resolveu o problema, com:
 | Categoria | Ferramentas |
 |---|---|
 | **Visualização** | Power BI |
-| **ETL / Automação** | Alteryx |
-| **Bases de Dados** | SAP, Hana |
-| **Linguagens** | SQL, DAX |
-| **Outros** | Excel |
+| **ETL / Automação** | Excel |
+| **Bases de Dados** | Excel |
+| **Linguagens** | M, DAX |
 
 ---
 
 ## 🏗️ Arquitetura de Dados
 
-```
-Fonte de Dados → ETL → Modelagem → Visualização → Usuário Final
-```
+Extração dos Relatórios nas bases do Mercado Livre, Shopee e Vendas Internas -> Transformação dos dados no Power Query -> Carregamento -> Visualização -> Usuário Final
+
 ---
 
 ## 💡 Insights e Impacto
@@ -77,8 +75,6 @@ Escreva o impacto real que o painel gerou no negócio:
 - ✅ Resultado 2
 - ✅ Resultado 3
 - ✅ Resultado 4
-
----
 
 ---
 
