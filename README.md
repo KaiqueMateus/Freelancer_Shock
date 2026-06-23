@@ -127,7 +127,7 @@ Para entender em profundidade as decisões técnicas, modelagem e fórmulas DAX:
 
 - 🗂️ **docs/01-modelagem-de-dados.md** — Star Schema, tabelas, relacionamentos e justificativas
 - 📐 **docs/02-medidas-dax.md** — 8 medidas DAX comentadas e organizadas por categoria
-- 
+  
 ---
 ## 📌 Observação
 
