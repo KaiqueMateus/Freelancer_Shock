@@ -26,18 +26,6 @@ O modelo possui **6 tabelas fato**, cada uma representando um processo de negóc
 ### `Base Consolidada_Vendas`
 Tabela fato principal — registra todas as vendas multicanal (Shopee, Mercado Livre Iplacas, Mercado Livre Shock, Shock e Iplacas).
 
-| Coluna | Descrição |
-|---|---|
-| Ano | Ano da venda |
-| Aprovação | Data de aprovação do pedido |
-| Canal | Canal de venda |
-| Comprador/Empresa | Identificação do cliente |
-| Contato | Contato do cliente |
-| Data da Venda | Data da transação |
-| Data Financeira | Data de reconhecimento financeiro |
-| Entrega | Data de entrega |
-| Faturamento | Valor faturado |
-
 ### `Orçamentos Feitos`
 Registra todos os orçamentos enviados pela empresa, com status atual e indicação de retrabalho.
 
