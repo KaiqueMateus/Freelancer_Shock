@@ -1,10 +1,6 @@
 # 📊 Painel de Vendas — Iplacas e Shock Visual
 
-> Breve descrição em 1-2 linhas sobre o objetivo do painel e onde foi desenvolvido.
 O painel tem o objetivo de agrupar todas a vendas das empresas do cliente, segmentando por canais (Shopee, Mercado Livre e Vendas Internas), junto com métricas de acumulado x orçamento e CAC.
-
-🔗 **Portfólio:** [seu-link-do-google-sites](https://sites.google.com/view/portfolio-kaique-mateus/home)  
-🔗 **LinkedIn:** [seu-linkedin](https://www.linkedin.com/in/kaique-mateus-de-souza-0baa83238/)
 
 ---
 
@@ -21,11 +17,7 @@ O painel tem o objetivo de agrupar todas a vendas das empresas do cliente, segme
 - [✅ Solução Desenvolvida](#-solução-desenvolvida)
 - [🛠️ Stack Utilizada](#️-stack-utilizada)
 - [🏗️ Arquitetura de Dados](#️-arquitetura-de-dados)
-- [📈 KPIs Principais](#-kpis-principais)
 - [💡 Insights e Impacto](#-insights-e-impacto)
-- [📂 Estrutura do Repositório](#-estrutura-do-repositório)
-- [🚀 Como Executar](#-como-executar)
-- [📄 Licença](#-licença)
 
 ---
 
