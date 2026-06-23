@@ -15,7 +15,7 @@ Essa abordagem foi escolhida por garantir:
 
 ## 🖼️ Diagrama do Modelo
 
-assets/modelo-relacional.png
+<img width="1123" height="695" alt="image" src="https://github.com/user-attachments/assets/b474f4eb-c404-4c74-b277-5b13ed8d06ad" />
 
 ---
 
@@ -132,10 +132,3 @@ Filtros bidirecionais foram evitados para **prevenir relacionamentos ambíguos**
 - **Tabela `Retrabalhos e Motivos`** não tem relacionamento direto com Vendas — análises cruzadas exigem o uso de `Dim_OS` como ponte.
 
 ---
-
-## 🚀 Próximos Passos
-
-- [ ] Migrar ingestão para **dataflows do Power BI Service**;
-- [ ] Criar **dimensão de tempo de entrega** (faixas de SLA);
-- [ ] Implementar **Row-Level Security (RLS)** para visões por canal;
-- [ ] Conectar API direta de Shopee e Mercado Livre para ingestão automática.
