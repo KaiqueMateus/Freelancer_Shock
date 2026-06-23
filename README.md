@@ -1,12 +1,7 @@
-# 📊 Nome do Painel — Empresa
+# 📊 Painel de Vendas — Iplacas e Shock Visual
 
 > Breve descrição em 1-2 linhas sobre o objetivo do painel e onde foi desenvolvido.
-
-![License](https://img.shields.io/badge/License-MIT-blue)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?logo=powerbi&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white)
-![Alteryx](https://img.shields.io/badge/Alteryx-0078D4)
-![SAP](https://img.shields.io/badge/SAP-0FAAFF?logo=sap&logoColor=white)
+O painel tem o objetivo de agrupar todas a vendas das empresas do cliente, segmentando por canais (Shopee, Mercado Livre e Vendas Internas), junto com métricas de acumulado x orçamento e CAC.
 
 🔗 **Portfólio:** [seu-link-do-google-sites](https://sites.google.com/view/portfolio-kaique-mateus/home)  
 🔗 **LinkedIn:** [seu-linkedin](https://www.linkedin.com/in/kaique-mateus-de-souza-0baa83238/)
@@ -15,7 +10,7 @@
 
 ## 🖼️ Preview do Painel
 
-![Dashboard](assets/dashboard-geral.png)
+<img width="898" height="668" alt="image" src="https://github.com/user-attachments/assets/ff62df68-af99-4a5f-8aff-07a97e4bef52" />
 
 ---
 
@@ -80,17 +75,6 @@ Descreva em 2-3 parágrafos como você resolveu o problema, com:
 ```
 Fonte de Dados → ETL → Modelagem → Visualização → Usuário Final
 ```
-
----
-
-## 📈 KPIs Principais
-
-- **KPI 1** — breve descrição
-- **KPI 2** — breve descrição
-- **KPI 3** — breve descrição
-- **KPI 4** — breve descrição
-- **KPI 5** — breve descrição
-
 ---
 
 ## 💡 Insights e Impacto
@@ -104,33 +88,6 @@ Escreva o impacto real que o painel gerou no negócio:
 
 ---
 
-## 📂 Estrutura do Repositório
-
-```
-nome-do-repositorio/
-├── assets/             # Imagens e prints do dashboard
-├── dashboard/          # Arquivo .pbix do Power BI
-├── sql/                # Queries SQL utilizadas
-├── docs/               # Documentação técnica
-└── README.md
-```
-
----
-
-## 🚀 Como Executar
-
-### Pré-requisitos
-- Power BI Desktop
-- Acesso aos dados de amostra (`/dashboard/dados-amostra.xlsx`)
-
-### Passos
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
-   ```
-2. Abra o arquivo `dashboard/nome-do-arquivo.pbix` no Power BI Desktop
-3. Atualize as fontes de dados conforme necessário
-
 ---
 
 ## 📌 Observação
@@ -139,14 +96,8 @@ nome-do-repositorio/
 
 ---
 
-## 📄 Licença
-
-Este projeto está sob a licença **MIT**. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-
----
-
 ## 👤 Autor
 
 **Kaique Souza** — Analista de Dados e BI  
-📧 seu-email@email.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/kaique-mateus-de-souza-0baa83238/) • [Portfólio](https://sites.google.com/view/portfolio-kaique-mateus/home)
+📧 kaique8mateus@gmail.com 
+🔗 [LinkedIn]([https://www.linkedin.com/in/kaique-mateus-de-souza-0baa83238/](https://www.linkedin.com/in/kaique-mateus-de-souza-0baa83238/)) • [Portfólio]([https://sites.google.com/view/portfolio-kaique-mateus/home](https://sites.google.com/view/portfolio-kaique-mateus/projetos))
